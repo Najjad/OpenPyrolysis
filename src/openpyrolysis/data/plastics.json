@@ -1,0 +1,32 @@
+{
+  "HDPE": {
+    "activation_energy": 200000,
+    "yield_distribution": {
+      "gas": 0.35,
+      "oil": 0.55,
+      "char": 0.10
+    },
+    "specific_heat": 2.3,
+    "melting_point": 130
+  },
+  "LDPE": {
+    "activation_energy": 180000,
+    "yield_distribution": {
+      "gas": 0.30,
+      "oil": 0.60,
+      "char": 0.10
+    },
+    "specific_heat": 2.1,
+    "melting_point": 110
+  },
+  "PP": {
+    "activation_energy": 220000,
+    "yield_distribution": {
+      "gas": 0.40,
+      "oil": 0.50,
+      "char": 0.10
+    },
+    "specific_heat": 2.0,
+    "melting_point": 160
+  }
+}
