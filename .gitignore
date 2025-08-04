@@ -1,0 +1,36 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.so
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.o
+*.pyd
+*.cpp.o
+*.so
+*.dll
+*.dylib
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and debugging
+*.log
+
+# PyInstaller
+*.spec
